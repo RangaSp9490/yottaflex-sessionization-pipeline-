@@ -1,0 +1,10 @@
+event_id,user_id,event_type,event_timestamp
+e100,u1,page_view,2026-01-01T10:00:00Z
+e101,u1,click,2026-01-01T10:05:00Z
+e102,u1,purchase,2026-01-01T10:12:00Z
+e103,u1,page_view,2026-01-01T11:00:00Z
+e104,u2,login,2026-01-01T10:02:00Z
+e105,u2,search,2026-01-01T10:04:00Z
+e106,u3,click,
+e107,u3,click,not-a-timestamp
+e101,u1,click,2026-01-01T10:05:00Z
